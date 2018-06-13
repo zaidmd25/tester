@@ -6,7 +6,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <center><div class="card-header">{{ __('sign in to start your session') }}</div></center>
+                <center><div class="card-header">{{ __('Sign in to start your session') }}</div></center>
 
                 <div class="card-body">
                     <form method="POST" action="{{ route('login') }}">
