@@ -3,9 +3,6 @@
 @section('content')
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
 <div class="container">
-    <div class="login-logo">
-        <b>Admin </b>LTE</a>
-    </div>
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
